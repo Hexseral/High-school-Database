@@ -1,4 +1,4 @@
-Welcome to my repository. 
+Welcome to my Ecosystem Simulation. 
 I will be demonstrating my skills that I have learned during my time taking Programming II (COP 3003) at Florida Gulf Coast University.
-I will also be preparing for interviews at the same time by completing problems from the book "Cracking The Coding Interview"
-Check my project milestones to see my goals to hit with each problem I complete.
+
+This program is meant to be a simulated environment using unity to build an ecosystem that allows us to simulate population in a predetor pray environment.
