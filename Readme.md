@@ -10,10 +10,10 @@ Class Diagram: <br />
  ![Sample Image](docs/classdiagram.png) <br />
  
 Code Analysis: <br />
- ![Sample Image](docs/9919.png) <br />
+ ![Sample Image](docs/CodeAnalysis.png) <br />
  
 Error List: <br />
- ![Sample Image](docs/9919.png) <br />
+ ![Sample Image](docs/ErrorList.png) <br />
  
 ## Built With
 
