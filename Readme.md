@@ -47,9 +47,7 @@ If you would like to add more functionality then adding a way to append grades t
 
 ## Acknowledgments
 
-* Web sites utilized
-* Classmates who helped
-* Your professor or TA if they helped
+* StackOverflow, cplusplus, programiz. <br />
 
 ## Key Programming Concepts Utilized
 
