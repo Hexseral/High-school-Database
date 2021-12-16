@@ -31,26 +31,15 @@ The markdown is  \!\[Alt text\]\(relative/path/to/img.png) <br />
 For example, this image 9919.png is saved to the docs folder in my repository and the markdown is  \!\[Sample Image\](docs/9919.png) <br />
  ![Sample Image](docs/9919.png)
 
-## Getting Started
-
-Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes.
-<br />
-Note for real project: You want to be able to share your project and enable collaboration. 
-<br />
-Note for school project: You want a potential client or hirer to be able to run your program. 
-
 ## Built With
 
-* IDE used  
-* Other software used  
-* Resources used  
-<br />Note for school project: Every section is an opportunity to make an impression. You could briefly add what you know about the IDE and describe your development skills. 
+* Visual Studios
+* C++
+* StarUML  
 
 ## Contributing
 
-This section is more important for real projects but is good to include in school projects. <br />
-One of the main purposes of GitHub and similar services is to provide a means for project collaboration. <br />
-Tell someone how they can contribute to this project.
+If you would like to add more functionality then adding a way to append grades to a student and calculate their GPA would be an idea <br />
 
 ## Author
 
