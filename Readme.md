@@ -1,11 +1,13 @@
 ## High-school-Database
 
-One paragraph of project description goes here.<br />
-Briefly address the 5 W's. <br />
-What is the project?<br />
-Who made it? Did you make it independently or with a team?<br />
-When did you make it? At what level of experience and proficiency were / are you?<br />
-Why did you make it?  For an assignment? <br />
+This program is a demonstration of using classes and subclasses to inherit feilds and methods in order to construct a vector of objects <br />
+It is structured to allow the user to create an admin account that will allow them to safely log in and create students, teachers, and classes <br />
+that can be stored properly on a large scale. I made this as my final project for COP 3003 (Programming II / Object Oriented Programming) to <br />
+demonstrate what I have learned. When I first made this project I had little to no experience creating classes that inherit to construct objects <br />
+using overlaoded constructors. I struggled the most with data structures and manipulation, but I will be returning to fix this program after my <br />
+completion of data structures & algorithms. as shown in the code I struggled to manipulate the vectors I created. I really enjoyed the creation <br />
+of this program although I wish I had the ability to conceptualize and create a manipulatable data structure so I could pair students & teachers to <br />
+their designated courses. 
 
 ## Demonstration
 ![Sample GIF](docs/octocat_github.gif) 
