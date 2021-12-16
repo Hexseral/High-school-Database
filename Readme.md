@@ -6,7 +6,7 @@ that can be stored properly on a large scale. I made this as my final project fo
 demonstrate what I have learned. When I first made this project I had little to no experience creating classes that inherit to construct objects <br />
 using overlaoded constructors. I struggled the most with data structures and manipulation, but I will be returning to fix this program after my <br />
 completion of data structures & algorithms. as shown in the code I struggled to manipulate the vectors I created. I really enjoyed the creation <br />
-of this program although I wish I had the ability to conceptualize and create a manipulatable data structure so I could pair students & teachers to <br />
+of this program although I wish I had the ability to conceptualize and create a manipulatable data structure so I could pair students & teachers to 
 their designated courses. 
 
 ## Demonstration
