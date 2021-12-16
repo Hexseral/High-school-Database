@@ -40,5 +40,5 @@ If you would like to add more functionality then adding a way to append grades t
 
 ## Key Programming Concepts Utilized
 
-The five pillars of Object Oriented Programming. <br />
+The three pillars of Object Oriented Programming, Encapsulation, inheritance, and polymorphism. <br />
 
