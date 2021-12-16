@@ -7,7 +7,7 @@ This program is a demonstration of using classes and subclasses to inherit feild
 
 ## Diagrams
 Class Diagram: <br />
- ![Sample Image](docs/9919.png) <br />
+ ![Sample Image](Class Diagram.png) <br />
  
 Code Analysis: <br />
  ![Sample Image](docs/9919.png) <br />
