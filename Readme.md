@@ -1,4 +1,4 @@
-# Project Title
+High-school-Database
 
 One paragraph of project description goes here.<br />
 Briefly address the 5 W's. <br />
