@@ -1,6 +1,6 @@
 ## High-school-Database
 
-This program is a demonstration of using classes and subclasses to inherit feilds and methods in order to construct a vector of objects <br />
+This program is a demonstration of using classes and subclasses to inherit feilds and methods in order to construct a vector of objects. <br />
 It is structured to allow the user to create an admin account that will allow them to safely log in and create students, teachers, and classes <br />
 that can be stored properly on a large scale. I made this as my final project for COP 3003 (Programming II / Object Oriented Programming) to <br />
 demonstrate what I have learned. When I first made this project I had little to no experience creating classes that inherit to construct objects <br />
